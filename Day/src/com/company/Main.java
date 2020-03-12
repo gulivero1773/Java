@@ -1,28 +1,31 @@
 package com.company;
-import java.util.Scanner;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Main {
 
+    public static void main(String[] args) throws Exception {
 
-        public static void main (String args[]){
+        BufferedReader br = null;
 
-            System.out.println(daytime(7));     // Good morning
-            System.out.println(daytime(13));    // Good after noon
-            System.out.println(daytime(18));    // Good evening
-            System.out.println(daytime(2));     // Good night
-        }
+        br = new BufferedReader(new InputStreamReader(System.in));
+        SimpleDateFormat sdf = new SimpleDateFormat("dd MM yyyy");
 
-        static String daytime ( int hour){
+        System.out.println("Введите дату номер один : dd MM yyyy: ");
+        Date dt1 = sdf.parse(br.readLine().trim());
 
-            if (hour > 24 || hour < 0)
-                return "Invalid data";
-            else if (hour > 21 || hour < 6)
-                return "Good night";
-            else if (hour >= 15)
-                return "Good evening";
-            else if (hour >= 11)
-                return "Good after noon";
-            else
-                return "Good morning";
+        System.out.println("Введите дату номер два: dd MM yyyy: ");
+        Date dt2 = sdf.parse(br.readLine().trim());
+
+        long diff = dt2.getTime() - dt1.getTime();
+
+        System.out.println("Days: " + diff / 1000L / 60L / 60L / 24L);
+
+        if (br != null) {
+            br.close();
         }
     }
+}
