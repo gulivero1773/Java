@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casa/Casa.iml" filepath="$PROJECT_DIR$/Casa/Casa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Case/Case.iml" filepath="$PROJECT_DIR$/Case/Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DB/DB.iml" filepath="$PROJECT_DIR$/DB/DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day/Day.iml" filepath="$PROJECT_DIR$/Day/Day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonachi/Fibonachi.iml" filepath="$PROJECT_DIR$/Fibonachi/Fibonachi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kvadrat */Kvadrat *.iml" filepath="$PROJECT_DIR$/Kvadrat */Kvadrat *.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lenght string/Lenght string.iml" filepath="$PROJECT_DIR$/Lenght string/Lenght string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login &amp; pass/Login &amp; pass.iml" filepath="$PROJECT_DIR$/Login &amp; pass/Login &amp; pass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ruletca/Ruletca.iml" filepath="$PROJECT_DIR$/Ruletca/Ruletca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array1/array1.iml" filepath="$PROJECT_DIR$/array1/array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock/clock.iml" filepath="$PROJECT_DIR$/clock/clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dec_to_another/dec_to_another.iml" filepath="$PROJECT_DIR$/dec_to_another/dec_to_another.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les23/les23.iml" filepath="$PROJECT_DIR$/les23/les23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Новая папка/Новая папка.iml" filepath="$PROJECT_DIR$/Новая папка/Новая папка.iml" />
+    </modules>
+  </component>
+</project>
